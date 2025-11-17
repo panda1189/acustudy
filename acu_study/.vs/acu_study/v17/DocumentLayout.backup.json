@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KAIROS6\\acu_study\\acu_study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDAF55D-CB4B-478D-883C-679DCAE829AF}|acu_study\\acu_study.csproj|c:\\kairos6\\acu_study\\acu_study\\acu_study\\main.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{0CDAF55D-CB4B-478D-883C-679DCAE829AF}|acu_study\\acu_study.csproj|solutionrelative:acu_study\\main.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDAF55D-CB4B-478D-883C-679DCAE829AF}|acu_study\\acu_study.csproj|c:\\kairos6\\acu_study\\acu_study\\acu_study\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CDAF55D-CB4B-478D-883C-679DCAE829AF}|acu_study\\acu_study.csproj|solutionrelative:acu_study\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDAF55D-CB4B-478D-883C-679DCAE829AF}|acu_study\\acu_study.csproj|c:\\kairos6\\acu_study\\acu_study\\acu_study\\\uBA54\uC778\uD654\uBA74.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0CDAF55D-CB4B-478D-883C-679DCAE829AF}|acu_study\\acu_study.csproj|solutionrelative:acu_study\\\uBA54\uC778\uD654\uBA74.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.xaml.cs",
+              "DocumentMoniker": "C:\\KAIROS6\\acu_study\\acu_study\\acu_study\\main.xaml.cs",
+              "RelativeDocumentMoniker": "acu_study\\main.xaml.cs",
+              "ToolTip": "C:\\KAIROS6\\acu_study\\acu_study\\acu_study\\main.xaml.cs",
+              "RelativeToolTip": "acu_study\\main.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:13:41.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.xaml",
+              "DocumentMoniker": "C:\\KAIROS6\\acu_study\\acu_study\\acu_study\\main.xaml",
+              "RelativeDocumentMoniker": "acu_study\\main.xaml",
+              "ToolTip": "C:\\KAIROS6\\acu_study\\acu_study\\acu_study\\main.xaml",
+              "RelativeToolTip": "acu_study\\main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-29T11:11:34.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uBA54\uC778\uD654\uBA74.xaml",
+              "DocumentMoniker": "C:\\KAIROS6\\acu_study\\acu_study\\acu_study\\\uBA54\uC778\uD654\uBA74.xaml",
+              "RelativeDocumentMoniker": "acu_study\\\uBA54\uC778\uD654\uBA74.xaml",
+              "ToolTip": "C:\\KAIROS6\\acu_study\\acu_study\\acu_study\\\uBA54\uC778\uD654\uBA74.xaml",
+              "RelativeToolTip": "acu_study\\\uBA54\uC778\uD654\uBA74.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-29T11:10:02.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
